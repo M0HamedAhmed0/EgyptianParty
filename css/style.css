@@ -41,7 +41,7 @@ li {
 }
 
 #Home {
-    background-image: url(/img/events-heavenly-header.jpg);
+    background-image: url(../img/events-heavenly-header.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center;
@@ -112,7 +112,7 @@ a {
 
 
 #Counter {
-    background-image: url(/img/invitation-2508607__340.jpg);
+    background-image: url(../img/invitation-2508607__340.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center;
